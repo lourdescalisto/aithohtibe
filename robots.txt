@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahcheedatu.sfdvw.de/sitemap.xml
